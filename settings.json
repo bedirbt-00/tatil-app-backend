@@ -1,0 +1,5 @@
+{
+  "notificationsEnabled": true,
+  "defaultNotificationDays": 1,
+  "theme": "light"
+}

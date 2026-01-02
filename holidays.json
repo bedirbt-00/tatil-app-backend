@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2026-01-01",
+    "localName": "Yılbaşı",
+    "type": "resmi"
+  },
+  {
+    "date": "2026-04-23",
+    "localName": "Ulusal Egemenlik ve Çocuk Bayramı",
+    "type": "resmi"
+  },
+  {
+    "date": "2026-05-01",
+    "localName": "Emek ve Dayanışma Günü",
+    "type": "resmi"
+  },
+  {
+    "date": "2026-05-19",
+    "localName": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+    "type": "resmi"
+  },
+  {
+    "date": "2026-07-15",
+    "localName": "Demokrasi ve Milli Birlik Günü",
+    "type": "resmi"
+  },
+  {
+    "date": "2026-08-30",
+    "localName": "Zafer Bayramı",
+    "type": "resmi"
+  },
+  {
+    "date": "2026-10-29",
+    "localName": "Cumhuriyet Bayramı",
+    "type": "resmi"
+  }
+]
